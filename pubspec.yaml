@@ -1,0 +1,62 @@
+name: duplikasi_bima
+description: Duplikasi Bima+ (Percobaan ke-2)
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.5
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.1
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/icons/buy.svg
+    - assets/icons/cowboy-hat-face.svg
+    - assets/icons/globe.svg
+    - assets/icons/greater-than.svg
+    - assets/icons/grid.svg
+    - assets/icons/headset.svg
+    - assets/icons/layers.svg
+    - assets/icons/loading-bar.svg
+    - assets/icons/market-stall.svg
+    - assets/icons/media-player.svg
+    - assets/icons/notification.svg
+    - assets/icons/person.svg
+    - assets/icons/phone.svg
+    - assets/icons/rocket.svg
+    - assets/icons/search.svg
+    - assets/icons/star-circle.svg
+    - assets/icons/discount-circle.svg
+    - assets/icons/voucher.svg
+    - assets/icons/shield-user.svg
+    - assets/icons/money-bag.svg
+
+    - assets/images/icon-launcher-rounded.png
+    - assets/images/header-background.jpg
+    - assets/images/splash-screen.jpg
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
