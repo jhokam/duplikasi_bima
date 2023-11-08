@@ -25,29 +25,35 @@ flutter:
   uses-material-design: true
   assets:
     - assets/icons/buy.svg
-    - assets/icons/cowboy-hat-face.svg
+    - assets/icons/cowboy_hat_face.svg
     - assets/icons/globe.svg
-    - assets/icons/greater-than.svg
+    - assets/icons/greater_than.svg
     - assets/icons/grid.svg
     - assets/icons/headset.svg
     - assets/icons/layers.svg
-    - assets/icons/loading-bar.svg
-    - assets/icons/market-stall.svg
-    - assets/icons/media-player.svg
+    - assets/icons/loading_bar.svg
+    - assets/icons/market_stall.svg
+    - assets/icons/media_player.svg
     - assets/icons/notification.svg
     - assets/icons/person.svg
     - assets/icons/phone.svg
     - assets/icons/rocket.svg
     - assets/icons/search.svg
-    - assets/icons/star-circle.svg
-    - assets/icons/discount-circle.svg
+    - assets/icons/star_circle.svg
+    - assets/icons/discount_circle.svg
     - assets/icons/voucher.svg
-    - assets/icons/shield-user.svg
-    - assets/icons/money-bag.svg
+    - assets/icons/shield_user.svg
+    - assets/icons/money_bag.svg
 
-    - assets/images/icon-launcher-rounded.png
-    - assets/images/header-background.jpg
-    - assets/images/splash-screen.jpg
+    - assets/images/icon_launcher_rounded.png
+    - assets/images/header_background.jpg
+    - assets/images/splash_screen.jpg
+
+    - assets/images/promo_pilihan/shopee_pay.png
+    - assets/images/promo_pilihan/happy_flex.png
+    - assets/images/promo_pilihan/promo_pegi_pegi.png
+    - assets/images/promo_pilihan/panjat_kuota.png
+    - assets/images/promo_pilihan/h3ro.jpg
 
   # fonts:
   #   - family: Schyler
